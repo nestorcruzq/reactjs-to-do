@@ -1,2 +1,2 @@
 # reactjs-to-do
-reactjs-to-do
+Basic to-do application
