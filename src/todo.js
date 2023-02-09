@@ -9,6 +9,7 @@ function Todo() {
   function handleSubmit(e) {
     e.preventDefault();
     setTodos([...todos, input]);
+    //comment
     setInput("");
   }
 
